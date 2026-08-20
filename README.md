@@ -17,7 +17,7 @@
 
 ---
 ## Highlighted Projects<br>
-[![Ninjutsu Database](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/pin/?username=Wildeaso1&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
+[![Ninjutsu Database](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/pin/?username=wsoijer&repo=Ninjutsu-DataBase&theme=tokyonight&show_icons=true)](https://github.com/Wildeaso1/Ninjutsu-DataBase)
 
 ---
 <h2 align="center">
