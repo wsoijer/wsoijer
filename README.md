@@ -1,6 +1,6 @@
 # William // Game Developer<br>
-![Wildeaso1's GitHub stats](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api?username=Wildeaso1&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
-![Top Langs](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/top-langs/?username=Wildeaso1&layout=compact&theme=tokyonight)<br>
+![Wildeaso1's GitHub stats](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api?username=wsoijer&show_icons=true&theme=tokyonight&hide_rank=false)<br> 
+![Top Langs](https://github-readme-stats-git-master-wildeaso1s-projects.vercel.app/api/top-langs/?username=wsoijer1&layout=compact&theme=tokyonight)<br>
 
 > Game Development Student (5+ Yrs)<br>  
 > Currently expanding C# knowledge, Lua knowledge, and knowledge in 3D/2D art.<br>
